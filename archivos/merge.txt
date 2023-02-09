@@ -1,3 +1,4 @@
 name: Juan Pablo Mejia Gomez
 age: 18
 goals: Overthrow the microsoft reign in the technology market
+Git does not interpretate empty folders, so i had to put in some files...
