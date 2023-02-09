@@ -1,3 +1,0 @@
-name: Juan Pablo Mejia Gomez
-age: 18
-goals: Overthrow the microsoft reign in the technology market
