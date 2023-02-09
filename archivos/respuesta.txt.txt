@@ -1,0 +1,1 @@
+The only problem was that the empty folders are not interpreted by Git, we need to create something to put there
